@@ -1,0 +1,16 @@
+{
+    "name": "kiinz/demopsr4",
+    "description": "demo psr-4",
+    "authors": [
+        {
+            "name": "kawaibii",
+            "email": "khoanld98@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Viblo\\" : "src/"
+        }
+    }
+}
